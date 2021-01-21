@@ -1,32 +1,25 @@
-# Requirements
-Download nodejs and install
-https://nodejs.org/en/
+This a simple PHP application in a microservice architecture.
 
-Download notepad ++ 
-https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.8/npp.7.8.8.Installer.x64.exe
+### What is this repository for? ###
 
-Download GIT
-https://github.com/git-for-windows/git/releases/download/v2.30.0.windows.1/Git-2.30.0-64-bit.exe
+This is if you wanted to try deploying a PHP based up in a microservice architecture.
 
-# Example Simple Get Services
 
-Try the command below
-https://www.techiediaries.com/angular/angular-8-7-tutorial-example-rest-api-httpclient-get-ngfor/
+### How do I get set up? ###
 
-Try until this section
-"Sending the GET Request & Subscribing to The Observable
-Next, define an articles variable and call the getNews() method of the API service in the ngOnInit() method of the component:"
+To run:
+1) clone / download the repository
+2) cd php-microapp
+3) docker-compose up
 
-Compare and Change as below files to make your 1st angular service works
-1. https://github.com/pcyuen98/medibot-web/blob/main/httpclient-test/src/app/api.service.ts
-2. https://github.com/pcyuen98/medibot-web/blob/main/httpclient-test/src/app/news/news.component.html
-3. https://github.com/pcyuen98/medibot-web/blob/main/httpclient-test/src/app/news/news.component.ts
 
-Then try on browser http://localhost:4200/news, if you see the message below at the bottom on browser then it's working
+### Who do I talk to? ###
 
-Testing here!
-Total Cases 2593 (Thu Jan 07 00:00:00 MYT 2021)
+maintained by: Christian Echica
+# php-microapp
+
+![alt text](https://github.com/christian-echica/httpclient-test/blob/main/src/assets/images/angular-bear.gif)
 
 # Command to update after 1st time clone
-goto the project root (i.e. workplace/medibot-web/httpclient-test
+goto the project root (i.e. workplace/httpclient-test
 run "npm install"
