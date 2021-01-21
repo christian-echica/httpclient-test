@@ -2,7 +2,7 @@ This a simple Angular App to demo an image base hello world!
 
 ### What is this repository for? ###
 
-This is if you wanted to try deploying a PHP based up in a microservice architecture.
+This is for you to have a template for Angular app
 
 
 ### How do I get set up? ###
