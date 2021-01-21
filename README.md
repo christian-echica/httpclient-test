@@ -1,4 +1,4 @@
-This a simple PHP application in a microservice architecture.
+This a simple Angular App to demo an image base hello world!
 
 ### What is this repository for? ###
 
